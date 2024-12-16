@@ -1,4 +1,4 @@
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=32&color=28A745&background=0D111700&center=true&vCenter=true&width=700&height=75&lines=Hello+There!+👋;I+code+to+solve+real+problems;Explore+my+GitHub+Repositories!" /></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0ABAB5&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub!;I'm+Bhanu+Sri+Sai+Teja!;I+💖+learning+new+things!" /></h1>
 <h3 align="center">A passionate cloud enthusiast and developer, always eager to explore new technologies and solve complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja-kollati&label=Profile%20views&color=0e75b6&style=flat" alt="teja-kollati" /> </p>
