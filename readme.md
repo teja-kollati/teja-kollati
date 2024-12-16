@@ -40,13 +40,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=24&color=00FA9A&width=500&lines=Code+Commits:+Growing+Daily!;Repositories:+Growing+Continuously!;Contributions:+Making+an+Impact!;Let's+Explore+My+Stats+👇" />
 
   <!-- Streak Stats -->
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaiDivakar-Navara&count_private=true&theme=highcontrast&border_radius=15" alt="Streak Stats" />
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja-kollati&count_private=true&theme=highcontrast&border_radius=15" alt="Streak Stats" />
 <br>
   <!-- Readme Stats -->
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SaiDivakar-Navara&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15" alt="Readme Stats" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=teja-kollati&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15" alt="Readme Stats" />
 <br>
   <!-- Top Languages -->
-  <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaiDivakar-Navara&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja-kollati&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 
   <h2>💡 Connect With Me 💡</h2>
   <p>🛠 Building Projects | 🌟 Sharing Knowledge | 🌐 Exploring the Tech World</p>
