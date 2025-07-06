@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sai divakar navara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai divakar navara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhanu-kollati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kollati Bhanu Sri Sai Teja" height="30" width="40" /></a>
 <a href="https://instagram.com/@siddu033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_siddu_033" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/teja_kollati33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="teja_kollati33" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22p31a0559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22p31a0559" height="30" width="40" /></a>
